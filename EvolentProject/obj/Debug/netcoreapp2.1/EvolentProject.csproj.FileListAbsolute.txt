@@ -1,0 +1,13 @@
+F:\Evolent\EvolentProject\EvolentProject\bin\Debug\netcoreapp2.1\EvolentProject.deps.json
+F:\Evolent\EvolentProject\EvolentProject\bin\Debug\netcoreapp2.1\EvolentProject.runtimeconfig.json
+F:\Evolent\EvolentProject\EvolentProject\bin\Debug\netcoreapp2.1\EvolentProject.runtimeconfig.dev.json
+F:\Evolent\EvolentProject\EvolentProject\bin\Debug\netcoreapp2.1\EvolentProject.dll
+F:\Evolent\EvolentProject\EvolentProject\bin\Debug\netcoreapp2.1\EvolentProject.pdb
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.csproj.CoreCompileInputs.cache
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.RazorAssemblyInfo.cache
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.RazorAssemblyInfo.cs
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.AssemblyInfoInputs.cache
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.AssemblyInfo.cs
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.RazorTargetAssemblyInfo.cache
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.dll
+F:\Evolent\EvolentProject\EvolentProject\obj\Debug\netcoreapp2.1\EvolentProject.pdb
